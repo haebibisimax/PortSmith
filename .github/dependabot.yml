@@ -1,5 +1,6 @@
 version: 2
 updates:
+  # keep the Go and Rust halves in step; both are checked by the interop job
   - package-ecosystem: gomod
     directory: "/go"
     schedule:
