@@ -555,3 +555,5 @@ are welcome.
 MIT — see [`LICENSE`](LICENSE).
 
 <p align="center"><sub>portsmith · clip the probe, read the waveform, chart the schema, replay the signal.</sub></p>
+
+<!-- keep this section short -->
